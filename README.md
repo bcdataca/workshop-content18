@@ -18,6 +18,24 @@ days to tackle an innovation challenge provided by an industry mentor:
 * Comm100
 * CloudPBX
 
+### Notes on the computing resources
+
+Participants will be given a partition the
+[bcdata.syzygy.ca](https://bcdata.syzygy.ca) Jupyter Hub, courtesy of PIMS (and
+thanks to Ian Allison). You will see on this partition a `data` directory which
+houses this repository as well as the workshop data from the industry
+mentors. This directory is read only, but the repository [in general] is not:
+you can [download your own local
+copy](https://github.com/bcdataca/workshop-content18) to `~/` on your partition
+and alter content as you please.
+
+Each partition has a 20 GB local disk quota (please do not exceed
+this). Computational resources are shared amongst participants - if you have a
+large/expensive computation to perform, the best time to do it is in the morning
+or at night. Please note that if a job is taking up excessive amounts of
+computing space then the process may have to be killed to allow all participants
+fair access to the computing resources. 
+
 ## Projects
 
 1. [Predicting heavy equipment failure](./1-ssr/)
